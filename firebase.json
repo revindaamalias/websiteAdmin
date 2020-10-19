@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "cambox-d0b24",
+    "public": "public",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
