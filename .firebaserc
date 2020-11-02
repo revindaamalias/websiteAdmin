@@ -1,6 +1,12 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "cambox-d0b24",
     "login": "cambox-d0b24"
   }
 }
+=======
+    "default": "cambox-d0b24"
+  }
+}
+>>>>>>> 2298a0c6da7ae55d17d0647e4793115c7fd13cc8
